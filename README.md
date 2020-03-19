@@ -4,7 +4,7 @@ READ ME:
 Para abrir o mysql no cmd ==> mysql -h localhost -u moniqueone -p <br>
 senha: justinbieber
 
-- O banco foi exportado pelo Workbenc,
+- O banco foi exportado pelo Workbench,
 Para acessar o banco de dados segue a autenticação: <br>
 user: moniqueone
 senha: justinbieber
